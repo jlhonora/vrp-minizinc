@@ -1,0 +1,3 @@
+*.html
+.*.sw*
+.DS_Store
