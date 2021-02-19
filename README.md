@@ -1,9 +1,9 @@
 Examples of Vehicle Routing Problem solving with MiniZinc
 
-To run:
+To run under Windows:
 
 ```
-mzn-g12fd ./vrptw-st.mzn ./data/1.vrptw-st.dzn
+& "C:\Program Files\MiniZinc\minizinc.exe" ./vrptw-st.mzn ./data/1.vrptw-st.dzn
 ```
 
 Based on:
